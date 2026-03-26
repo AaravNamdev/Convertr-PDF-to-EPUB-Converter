@@ -17,6 +17,8 @@ Some pages may appear blank on certain PDFs
 
 Minimum Android: 8.0 (Oreo)
 
+User feedback is welcomed generously.
+
 *How to install*
 
 Download the APK.
@@ -31,4 +33,4 @@ Click "More details" or "Install anyway".
 
 Open & Enjoy: Once the installation is complete, find the app icon on your home screen and launch it!
 
-© 2025 AaravNamdev. All Rights Reserved. This project is not open source. Do not copy, distribute, or modify without permission.
+© 2026 AaravNamdev. All Rights Reserved. This project is not open source. Do not copy, distribute, or modify without permission.
