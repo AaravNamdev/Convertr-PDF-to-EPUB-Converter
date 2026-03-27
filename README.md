@@ -1,36 +1,46 @@
-# Convertr-PDF-to-EPUB-Converter
-Convertr is a PDF to E-pub converter that works on Android completely offline, no internet required.
+# Convertr - Offline PDF to EPUB Converter for Android
 
-Convert PDF files to EPUB format completely on your Android device. No internet, no servers, no data uploaded anywhere.
+**A free, completely offline PDF to EPUB converter that runs 100% on your Android device.**
 
-What works:
+No internet required. No servers. No data uploads. No ads.
 
--Text extraction and conversion
--Bold, italic and heading detection
--Proper paragraph and sentence joining
--Fully offline
+Convertr lets you convert PDF files to EPUB format directly on your phone — ideal for reading on e-readers like Kindle, Kobo, or any EPUB app.
 
-Known limitations (Work in progress):
+### Features (What currently works)
+- Text extraction and conversion
+- Detection of bold, italic, and headings
+- Proper paragraph and sentence joining
+- Fully offline processing
 
-Images from PDFs not yet extracted
-Some pages may appear blank on certain PDFs
+### Known Limitations (Work in progress)
+- Images are not yet extracted from PDFs
+- Some pages may appear blank, especially on complex layouts, scanned documents, or heavily formatted PDFs
+- Best results with simple text-only PDFs
 
-Minimum Android: 8.0 (Oreo)
+I'm actively improving it based on real usage.
 
-User feedback is welcomed generously.
+**Minimum Android version:** 8.0 (Oreo)
 
-*How to install*
 
-Download the APK.
+### How to Install
+1. Download the APK.
+2. Enable installation from unknown sources (for your browser or file manager).
+3. If Play Protect shows a warning, tap **More details → Install anyway**.
+4. Open the app and start converting your PDFs!
 
-Enable Unknown Sources: * If prompted that your browser "is not allowed to install unknown apps," click Settings.
+### Feedback Welcome
+This is an early version, so your input helps a lot.  
+If something doesn't convert well, please share:
+- Your Android version
+- A short description of the PDF (e.g., simple text, academic paper, has images, scanned, etc.)
 
-Toggle on Allow from this source.
+You can open an Issue here on GitHub or reply wherever you found the app.
 
-Bypass Play Protect: * Google Play Protect may show a popup saying "Blocked by Play Protect" or "Unrecognized Developer."
+### Privacy
+All processing happens locally on your device. Nothing is sent anywhere.
 
-Click "More details" or "Install anyway".
+**This app is completely free and will remain free.**  
+It is closed-source. The APK is provided for personal use.
 
-Open & Enjoy: Once the installation is complete, find the app icon on your home screen and launch it!
-
-© 2026 AaravNamdev. All Rights Reserved. This project is not open source. Do not copy, distribute, or modify without permission.
+Made by AaravNamdev  
+© 2026 AaravNamdev. All Rights Reserved.
